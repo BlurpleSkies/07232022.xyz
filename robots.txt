@@ -1,0 +1,4 @@
+Sitemap: https://www.07232022.xyz/sitemap.xml
+
+User-agent: *
+Allow: /
